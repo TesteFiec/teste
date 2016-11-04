@@ -34,7 +34,7 @@ public class NewJFrame extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\27390\\Desktop\\flores-2.jpg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\27390\\Desktop\\flores-3.jpg")); // NOI18N
         jLabel2.setText("jLabel2");
         jLabel2.setOpaque(true);
 
